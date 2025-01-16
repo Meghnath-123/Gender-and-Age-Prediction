@@ -1,1 +1,2 @@
 # Gender-and-Age-Prediction
+This project involves the development of a real-time face detection system using OpenCV and pre-trained deep learning models. The system estimates the age and gender of individuals detected in webcam video frames. By processing video input, the system identifies faces, predicts demographic attributes, and displays the results with bounding boxes and annotations for easy visualization.
